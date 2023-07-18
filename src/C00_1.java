@@ -3,5 +3,10 @@ public class C00_1 {
         System.out.println("Hello World!");
         System.out.println("Hello GitHub!");
         System.out.println("Merhaba Dünya!");
+        int i = 0;
+        for (int j = 0; j < 6; j++) {
+            System.out.println(i);
+
+        }
     }
 }
